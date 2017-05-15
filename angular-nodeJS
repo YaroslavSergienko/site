@@ -1,0 +1,21 @@
+1. Install the recommended version of Node.js (see https://nodejs.org). If you already have an older version of Node.JS, please uninstall it first.
+
+Для того чтобы получилось необходимо знать какую версию ставить 
+
+https://github.com/nodejs/LTS
+https://nodejs.org/en/blog/release/v7.4.0/
+
+2. Install Angular CLI (takes a couple of minutes). Open the command prompt window and run the following:
+
+npm install @angular/cli -g
+
+If you had older versions of Angular CLI, uninstall it first:
+
+npm uninstall @angular/cli -g
+npm uninstall @angular-cli -g
+npm cache clear
+npm install @angular/cli -g
+
+3. Install either the trial version of the WebStorm IDE from https://www.jetbrains.com/webstorm/download  or Visual Studio Code IDE (it's free): https://code.visualstudio.com/download.
+ 
+4. Install Chrome browser if you don't have it
